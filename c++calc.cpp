@@ -1,3 +1,4 @@
+#define my_soul void
 #include <iostream>
 using namespace std;
 int choice;
